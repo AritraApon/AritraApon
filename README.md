@@ -27,11 +27,10 @@ Passionate about building responsive, accessible, and user-friendly web apps.
 ---
 
 ## 📊 GitHub Stats
+
 ![Aritro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AritroApon&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AritroApon&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AritroApon&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aritro-mazumdar)
