@@ -1,9 +1,7 @@
-<!-- Banner -->
-![Banner](https://copilot.microsoft.com/th/id/BCO.33dbf7d4-eb73-4132-b660-385486a9801d.png)
-
 # 👋 Hi, I'm Aritro Mazumdar
 
-🚀 **Aspiring Frontend Developer** | Passionate about building responsive, accessible, and user-friendly web apps  
+🚀 **Aspiring Frontend Developer**  
+Passionate about building responsive, accessible, and user-friendly web apps.  
 🌱 Currently learning **JavaScript** & **Tailwind CSS**  
 🎯 Goal: Become a Full-Stack Developer and contribute to impactful projects  
 
