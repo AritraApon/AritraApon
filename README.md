@@ -1,27 +1,46 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aritro Mazumdar
-========================================================================================================================================
+<!-- Banner -->
+![Banner](https://copilot.microsoft.com/th/id/BCO.33dbf7d4-eb73-4132-b660-385486a9801d.png)
 
-Frontend Web Developer Learner
-------------------------------
+# 👋 Hi, I'm Aritro Mazumdar
 
-I started my coding journey with HTML and CSS, and gradually explored JavaScript and Git. Currently, I am learning Tailwind CSS and building small projects to strengthen my skills. My goal is to become a full-stack developer and share my progress openly on GitHub.
+🚀 **Aspiring Frontend Developer** | Passionate about building responsive, accessible, and user-friendly web apps  
+🌱 Currently learning **JavaScript** & **Tailwind CSS**  
+🎯 Goal: Become a Full-Stack Developer and contribute to impactful projects  
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [aritromazumdar8@gmail.com](mailto:aritromazumdar8@gmail.com)
-* 🧠  I'm currently learning JavaScript
-* 💬  Ask me about HTML, CSS, JavaScript, Git, GitHub, Tailwind CSS
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+## 🛠️ Skills & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/AritraApon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/aritro-mazumdar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/aritro09008" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-### Badges
+## 📂 Featured Projects
+- 🔑 [Password Strength Checker](https://github.com/AritroApon/password-strength-checker)  
+  *Checks password security with live feedback.*
+- 🎨 [Responsive Portfolio](https://github.com/AritroApon/responsive-portfolio)  
+  *Personal portfolio showcasing skills and projects.*
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/AritraApon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AritraApon&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📊 GitHub Stats
+![Aritro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AritroApon&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AritroApon&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=AritroApon&theme=radical)
 
-<a href="https://github.com/AritraApon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraApon&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aritro-mazumdar)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AritroApon)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/aritro09008)
+✉️ [Email Me](mailto:aritromazumdar8@gmail.com)
+
+---
+
+✨ *“Consistency beats intensity. Code every day, even a little.”*
