@@ -1,3 +1,7 @@
+
+<img width="1344" height="768" alt="ideogram-v3 0_Create_a_GitHub_profile_banner_for_a_frontend_web_developer _Main_text_Aritro_Ma-0 (1)" src="https://github.com/user-attachments/assets/d3b749e1-96d2-481b-a312-41322c9517a1" />
+
+
 # 👋 Hi, I'm Aritro Mazumdar
 
 🚀 **Aspiring Frontend Developer**  
