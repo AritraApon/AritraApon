@@ -38,15 +38,6 @@ My goal is to become a Full-Stack Developer and contribute to meaningful, real-w
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📂 Featured Projects
-- 🔑 [Password Strength Checker](https://github.com/AritroApon/password-strength-checker)  
-  *Checks password security with live feedback.*
-- 🎨 [Responsive Portfolio](https://github.com/AritroApon/responsive-portfolio)  
-  *Personal portfolio showcasing skills and projects.*
-
----
 
 
 ## 🌐 Connect with Me
