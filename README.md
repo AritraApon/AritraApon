@@ -1,19 +1,6 @@
 
 <img width="2064" height="512" alt="Gemini_Generated_Image_mk5jb1mk5jb1mk5j" src="https://github.com/user-attachments/assets/19754468-fb88-4e06-9057-e0570cc0e481" />
-
-# Hi there, I'm Aritro Mazumdar 👋
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AritroMazumdar&label=Profile%20views&color=0e75b6&style=flat" alt="AritroMazumdar" />
-</p>
-
-### 👨‍💻 About Me
-I am a passionate **Frontend Developer** dedicated to building visually stunning and highly functional web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
 <!-- ===================== BANNER ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:ef4444&height=200&section=header&text=Aritra%20Apon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Aritra Apon</h1>
 <h3 align="center">🚀 Frontend Developer | React Learner | Passionate Web Creator</h3>
@@ -50,7 +37,6 @@ I am a passionate **Frontend Developer** dedicated to building visually stunning
 
 ---
 ---
-
 ## 🌟 Featured Projects
 
 * 🔹 React Practice Projects
@@ -61,40 +47,11 @@ I am a passionate **Frontend Developer** dedicated to building visually stunning
 ---
 ---
 
-## 🔥 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AritraApon&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 💡 Quote
 
 > "Code. Learn. Build. Repeat." 🚀
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:ef4444&height=120&section=footer"/>
-</p>
-
----
-
-### 🛠 Tech Stack
-I love working with these technologies:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
-</p>
-
----
----
-
 ### 📫 Connect with Me
 Let's talk about development, design, or anything tech!
 
@@ -104,4 +61,10 @@ Let's talk about development, design, or anything tech!
   <a href="aritromazumdar8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:ef4444&height=120&section=footer"/>
+</p>
+---
+---
+---
 ---
