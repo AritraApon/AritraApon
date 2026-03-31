@@ -9,11 +9,75 @@
 
 ### 👨‍💻 About Me
 I am a passionate **Frontend Developer** dedicated to building visually stunning and highly functional web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+<!-- ===================== BANNER ===================== -->
 
-- 🔭 I’m currently working on building modern web apps.
-- 🌱 I’m currently learning advanced features of **Next.js**.
-- 💬 Ask me about **React.js** or **JavaScript**.
-- ⚡ Fun fact: I believe a clean UI can change the world!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:ef4444&height=200&section=header&text=Aritra%20Apon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Aritra Apon</h1>
+<h3 align="center">🚀 Frontend Developer | React Learner | Passionate Web Creator</h3>
+
+---
+
+## 🧑‍💻 About Me
+
+* 🌱 Currently learning **React & Modern JavaScript**
+* 💻 Practicing **Frontend Development**
+* 🎯 Goal: Become a **Professional Web Developer**
+* 🔥 Love building **User Friendly UI**
+* 📚 Learning by **Building Projects**
+* ⚡ Fun fact: I turn coffee ☕ into code 💻
+
+---
+
+## 🚀 Current Focus
+
+* React Projects
+* Responsive Website Design
+* UI/UX Improvement
+* JavaScript Logic Building
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages & Tools
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
+</p>
+
+---
+---
+
+## 🌟 Featured Projects
+
+* 🔹 React Practice Projects
+* 🔹 Responsive Website Designs
+* 🔹 JavaScript Logic Apps
+* 🔹 UI Components
+
+---
+---
+
+## 🔥 Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AritraApon&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💡 Quote
+
+> "Code. Learn. Build. Repeat." 🚀
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:ef4444&height=120&section=footer"/>
+</p>
 
 ---
 
@@ -29,13 +93,6 @@ I love working with these technologies:
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AritroMazumdar&show_icons=true&theme=radical" alt="Aritro's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritroMazumdar&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
-
 ---
 
 ### 📫 Connect with Me
