@@ -1,9 +1,7 @@
 
 <img width="2064" height="512" alt="Gemini_Generated_Image_mk5jb1mk5jb1mk5j" src="https://github.com/user-attachments/assets/19754468-fb88-4e06-9057-e0570cc0e481" />
 <!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="YOUR_BANNER_LINK" alt="banner" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Aritra Apon</h1>
 <h3 align="center">🚀 Frontend Developer | React Learner | Passionate Web Creator</h3>
 
@@ -38,6 +36,7 @@
 </p>
 
 ---
+
 ---
 ## 🌟 Featured Projects
 
@@ -47,8 +46,6 @@
 * 🔹 UI Components
 
 ---
----
-
 ## 💡 Quote
 
 > "Code. Learn. Build. Repeat." 🚀
@@ -63,10 +60,13 @@ Let's talk about development, design, or anything tech!
   <a href="aritromazumdar8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
+----
+----
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=220&section=header&text=Aritro%20Mazumdar%20Apon&fontSize=35&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Web%20Developer%20Learner&descAlignY=60&descAlign=50"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16a34a,100:ef4444&height=120&section=footer"/>
 </p>
----
----
----
----
+
