@@ -1,7 +1,9 @@
 
 <img width="2064" height="512" alt="Gemini_Generated_Image_mk5jb1mk5jb1mk5j" src="https://github.com/user-attachments/assets/19754468-fb88-4e06-9057-e0570cc0e481" />
 <!-- ===================== BANNER ===================== -->
-
+<p align="center">
+  <img src="YOUR_BANNER_LINK" alt="banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Aritra Apon</h1>
 <h3 align="center">🚀 Frontend Developer | React Learner | Passionate Web Creator</h3>
 
