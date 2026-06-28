@@ -44,11 +44,19 @@ I am a highly motivated **Frontend-Focused MERN Stack Developer** passionate abo
 
 ## 🌟 Featured Projects
 
+### 🚀 **TicketBari - Online Ticket Booking Platform**
+* Developed a full-featured multi-vendor ticket booking platform (Bus, Train, Launch, Plane) with separate User, Vendor, and Admin dashboards, supporting ticket search, filtering, sorting, and pagination. 
+* Implemented secure authentication and authorization using BetterAuth (with Google login) and JWT-protected REST APIs, along with role-based access control for Users, Vendors, and Admins. 
+* Built a responsive, real-time booking and payment workflow using Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB, integrating Stripe for secure online payments and revenue tracking via dynamic charts. 
+* 🔗 **Links:** [📁 Client Repo](https://github.com/AritraApon/Online-Ticket-Booking-Platform) | [🗄️ Server Repo](https://github.com/AritraApon/online-ticket-booking-platform-server) | [🌐 Live Demo](https://online-ticket-booking-platform-red.vercel.app)
+
+---
+
 ### 🚀 **MediQueue — Full-Stack Tutor Booking Platform**
 * Implemented secure authentication & custom route sessions using **BetterAuth**.
 * Designed highly functional dynamic workflows for instructor discovery and interactive booking.
 * Integrated modular architecture with Next.js, Node.js, and MongoDB Atlas.
-* 🔗 **Links:** [📁 Client Repo](https://github.com/aritro-mazumdar) | [🗄️ Server Repo](https://github.com/aritro-mazumdar) | [🌐 Live Demo](https://github.com/aritro-mazumdar)
+* 🔗 **Links:** [📁 Client Repo](https://github.com/AritraApon/MediQueue-Tutor-Booking-System) | [🗄️ Server Repo](https://github.com/AritraApon/medi-queue-server) | [🌐 Live Demo](https://medi-queue-tutor-booking-system-six.vercel.app)
 
 ---
 
@@ -56,7 +64,7 @@ I am a highly motivated **Frontend-Focused MERN Stack Developer** passionate abo
 * Utilized **Next.js Server-Side Rendering (SSR)** for structural and performance optimizations.
 * Engineered protected routes, elegant navigation parameters, and user management panels.
 * Polished responsive and highly responsive user interfaces using **Tailwind CSS & HeroUI**.
-* 🔗 **Links:** [📁 GitHub Repo](https://github.com/aritro-mazumdar) | [🌐 Live Demo](https://github.com/aritro-mazumdar)
+* 🔗 **Links:** [📁 GitHub Repo](https://github.com/AritraApon/next-js-skill-sphere-projects) | [🌐 Live Demo](https://next-js-skill-sphere-projects.vercel.app)
 
 ---
 
